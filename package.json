@@ -1,5 +1,5 @@
 {
-  "name": "mastra-tutorial-azure-openapi",
+  "name": "mastra-tutorial-azure-openai",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
